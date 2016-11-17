@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "AF68B66F1D8A6E4200E3EFBB"
-               BuildableName = "maizhou.app"
+               BuildableName = "&#x9ea6;&#x5353;&#x4e91;&#x5546;.app"
                BlueprintName = "maizhou"
                ReferencedContainer = "container:maizhou.xcodeproj">
             </BuildableReference>
@@ -53,7 +53,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "AF68B66F1D8A6E4200E3EFBB"
-            BuildableName = "maizhou.app"
+            BuildableName = "&#x9ea6;&#x5353;&#x4e91;&#x5546;.app"
             BlueprintName = "maizhou"
             ReferencedContainer = "container:maizhou.xcodeproj">
          </BuildableReference>
@@ -76,7 +76,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "AF68B66F1D8A6E4200E3EFBB"
-            BuildableName = "maizhou.app"
+            BuildableName = "&#x9ea6;&#x5353;&#x4e91;&#x5546;.app"
             BlueprintName = "maizhou"
             ReferencedContainer = "container:maizhou.xcodeproj">
          </BuildableReference>
@@ -95,7 +95,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "AF68B66F1D8A6E4200E3EFBB"
-            BuildableName = "maizhou.app"
+            BuildableName = "&#x9ea6;&#x5353;&#x4e91;&#x5546;.app"
             BlueprintName = "maizhou"
             ReferencedContainer = "container:maizhou.xcodeproj">
          </BuildableReference>
